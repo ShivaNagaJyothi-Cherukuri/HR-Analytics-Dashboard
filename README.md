@@ -10,7 +10,6 @@ Employee attrition refers to the voluntary or involuntary departure of employees
 Without a robust HR dashboard analytics solution, HR professionals struggle to identify the underlying reasons behind attrition. They may not have access to real-time attrition data, making it challenging to track and analyze attrition rates over time. Moreover, without an analytics tool, they may lack visibility into factors such as job satisfaction, career development opportunities, compensation, work-life balance, or management-related issues that contribute to attrition.
 
 **Requirements:**
-
 Attrition Metrics: The HR dashboard analytics solution should include attrition metrics that help monitor and measure the organization's turnover rates accurately. These metrics may include overall attrition rate, voluntary vs. involuntary attrition, attrition by department or location, and attrition among high-performing employees.
 
 Detailed Employee Profiles: The solution should provide detailed employee profiles that encompass relevant information, such as job history, performance ratings, career progression, compensation details, and feedback from exit interviews or surveys. These profiles enable HR professionals to identify patterns and trends among employees who leave the organization.
